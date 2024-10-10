@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nihaal</h1>
+<h1 align="left">Hello 👋, I'm Nihaal</h1>
 
 - 🌱 I am a student focused on learning ML and DSA.
 - 📫 You can reach me at: [email](nihaalsp7@gmail.com)
