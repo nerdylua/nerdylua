@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdylelouch&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="nerdylelouch" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdylelouch&theme=radical&hide_border=false" alt="GitHub Streak" /></a> <br>
 <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
+
+[![An image of @nerdylelouch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdylelouch)](https://holopin.io/@nerdylelouch)
