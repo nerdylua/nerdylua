@@ -1,6 +1,4 @@
-<h1 align="left">Hello 👋, I'm Nihaal</h1> <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
-</p>
+<h1 align="left">Hello 👋, I'm Nihaal</h1> 
 
 - 🌱 I am a student focused on learning ML and DSA
 - 📫 You can reach me at: nihaalsp7@gmail.com
@@ -13,3 +11,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdylelouch&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="nerdylelouch" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdylelouch&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="nerdylelouch" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdylelouch&theme=radical&hide_border=false" alt="GitHub Streak" /></a> <br>
+<img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
