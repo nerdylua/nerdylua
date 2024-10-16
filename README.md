@@ -1,8 +1,10 @@
-<h1 align="left">Hello 👋, I'm Nihaal</h1>
+<h1 align="left">Hello 👋, I'm Nihaal</h1> <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
+</p>
 
 - 🌱 I am a student focused on learning ML and DSA
 - 📫 You can reach me at: nihaalsp7@gmail.com
-
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerdylelouch&theme=radical" alt="nerdylelouch" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
