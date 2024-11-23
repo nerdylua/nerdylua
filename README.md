@@ -10,7 +10,7 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdylua&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="nerdylua" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdylua&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="nerdylua" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdylua&theme=radical&hide_border=true" /> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdylua&theme=radical&hide_border=false" /> <br>
 <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
 
 [![An image of @nerdylua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdylelouch)](https://holopin.io/@nerdylelouch)
