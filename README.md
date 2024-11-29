@@ -14,3 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
 
 [![An image of @nerdylua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdylelouch)](https://holopin.io/@nerdylelouch)
+
+## My LeetCode Stats
+
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dracula&border=border&animated=true)
