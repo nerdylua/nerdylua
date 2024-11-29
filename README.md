@@ -17,4 +17,7 @@
 
 ## My LeetCode Stats
 
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dracula&border=border&animated=true)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/nerdylua?theme=radical&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" style="width: 48%;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dracula&border=border&animated=true" alt="LeetCode Badge" style="width: 48%;">
+</div>
