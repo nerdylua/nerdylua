@@ -16,8 +16,6 @@
 [![An image of @nerdylua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdylelouch)](https://holopin.io/@nerdylelouch)
 
 ## My LeetCode Stats
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dracula&border=border&animated=false" alt="LeetCode Badges"/>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/nerdylua?theme=radical&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" style="width: 48%;">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dracula&border=border&animated=true" alt="LeetCode Badge" style="width: 48%;">
-</div>
+[![LeetCode user nerdylua](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnerdylua&logo=leetcode&logoColor=yellow)](https://leetcode.com/nerdylua/)
