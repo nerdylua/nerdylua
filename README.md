@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Nihaal👋</h1> 
 
-- 🌱 I am a student focused on learning ML and DSA
+- 🌱 I am a student focused on learning DSA and Web Development
 - 📫 You can reach me at: nihaalsp7@gmail.com
   
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=nerdylua&theme=radical" alt="nerdylua" /> </p>
