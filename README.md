@@ -11,9 +11,7 @@
 
 ## Github Stats
 <div align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdylua&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="nerdylua" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdylua&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="nerdylua" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdylua&theme=radical&hide_border=false" /> 
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/nerdylua?cardType=level&theme=radical&fontFamily=&preferLogin=false" /> 
 </div>
 
 ## Hacktoberfest badges
