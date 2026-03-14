@@ -37,7 +37,14 @@ type ContributionStats = {
   currentStreakEndDate: string | null;
 };
 
-const config: BentoConfig = JSON.parse("{"name":"Nihaal","githubUsername":"nerdylua","twitterUsername":"nerdylua","linkedinUsername":"nihaal-sp","imageUrl":"https://avatars.githubusercontent.com/u/150607136?v=4","portfolioUrl":""}") as BentoConfig;
+const config: BentoConfig = {
+  name: "Nihaal",
+  githubUsername: "nerdylua",
+  twitterUsername: "nerdylua",
+  linkedinUsername: "nihaal-sp",
+  imageUrl: "https://avatars.githubusercontent.com/u/150607136?v=4",
+  portfolioUrl: "",
+};
 const outputPath = "opbento.png";
 const githubToken =
   process.env.OPBENTO_GITHUB_TOKEN || process.env.GITHUB_TOKEN || "";
