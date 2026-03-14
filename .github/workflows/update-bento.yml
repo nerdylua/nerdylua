@@ -1,20 +1,61 @@
-name: Daily OP-Bento image Update
+name: Daily OP Bento Update
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 18 * * *"
+
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
+  update-bento:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Bun & run
-        uses: oven-sh/setup-bun@v1
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
-      - name: Update Bento
+      - name: Setup Chrome
+        id: setup-chrome
+        uses: browser-actions/setup-chrome@v2
+        with:
+          install-dependencies: true
+
+      - name: Prepare runtime dependencies
         run: |
-          bun getNewBento.ts
+          mkdir -p .opbento-runtime
+          cp getNewBento.ts .opbento-runtime/getNewBento.ts
+          cat <<'EOF' > .opbento-runtime/package.json
+          {
+            "dependencies": {
+              "puppeteer-core": "^19.8.3"
+            }
+          }
+          EOF
+          cd .opbento-runtime
+          bun install
+
+      - name: Generate Bento image
+        run: |
+          cd .opbento-runtime
+          bun run getNewBento.ts
+          cp opbento.png ../opbento.png
+        env:
+          OPBENTO_GITHUB_TOKEN: ${{ secrets.OPBENTO_GITHUB_TOKEN }}
+          CHROME_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
+
+      - name: Commit updated image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add opbento.png
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update opbento image"
+          git push

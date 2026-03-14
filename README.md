@@ -1,4 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fnerdyluad1529.png?alt=media)
+![OpBento](./opbento.png)
 
 ## About me
 - 🌱 I am a student focused on learning DSA and Web Development, with a dabble in Cybersec :)
