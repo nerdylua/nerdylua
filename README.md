@@ -1,8 +1,8 @@
 ![OpBento](./opbento.png)
 
 ## About me
-- 🌱 I am a student focused on learning DSA and Web Development, with a dabble in Cybersec :)
-- 📫 You can reach me at: nihaalsp7@gmail.com
+- I am a student focused on learning Web Development and Algorithms, with a dabble in Cybersec :)
+- You can reach me at: nihaalsp7@gmail.com
   
 <img src="https://komarev.com/ghpvc/?username=nerdylelouch" alt="Profile views" />
 
